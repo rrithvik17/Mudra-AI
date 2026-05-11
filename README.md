@@ -2,7 +2,6 @@
 
 **Mudra AI** is a professional-grade, real-time hand gesture recognition application specifically designed for **Kuchipudi**, a classical Indian dance form. Leveraging cutting-edge AI and computer vision, it helps students and practitioners learn, practice, and master the fundamental hand gestures (*Mudras*) with precision and grace.
 
-![Mudra AI Banner](https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&q=80&w=1200)
 
 ## ✨ Features
 
